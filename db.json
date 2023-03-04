@@ -411,7 +411,7 @@
         "假日團"
       ],
       "updateDate": 1677427329341,
-      "userId": "1",
+      "userId": "4",
       "id": 4
     },
     {
@@ -442,7 +442,7 @@
         "船潛"
       ],
       "updateDate": 1677427807963,
-      "userId": "1",
+      "userId": "6",
       "id": 5
     },
     {
@@ -477,7 +477,7 @@
         "船潛"
       ],
       "updateDate": 1677428247947,
-      "userId": "1",
+      "userId": "7",
       "id": 6
     },
     {
@@ -542,7 +542,7 @@
         "船潛"
       ],
       "updateDate": 1677428820245,
-      "userId": "1",
+      "userId": "3",
       "id": 8
     },
     {
@@ -664,7 +664,7 @@
       "id": 12
     },
     {
-      "title": "帛琉",
+      "title": "帛琉(缺資料)",
       "imgs": {
         "img_1": {
           "img": "https://storage.googleapis.com/vue-course-api.appspot.com/ella-diving/1677519500525.jpg?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=DFZrnylb5e%2Bah1%2BGOK4DzZKM%2BVQIWzASFhMiMAAikaMnVCGLf85IEPoIhIcFa16nQAJbgCNUO8QcFY2pPIhVEw1RuDxlPlj%2BlYMEefVhJSs6ujVrpfihNZB5lsOsabXOciUxdfKDILyiHTuXYNUG9iFV6lQxy9NTZywzCIbBWifENfdIFolHvOlmln7JvvhmIorq%2FjhusYQuas5Ao0kr88wufNZ9i5Fp2PPUzUrHVRFGqaTHW4wqOCZUu5WduE8Hcq8aMuJrMLjr6u8A2tnE5CdswI2d0URdPWbF88AcGlhdACItmyC4VcZ%2BRSztB5ZkMa6zd19NDVpivWnRym3aMA%3D%3D",
@@ -675,7 +675,7 @@
           "isMain": true
         }
       },
-      "locationId": "2",
+      "locationId": "8",
       "features": "1",
       "content": "2",
       "startDate": "2023-03-03",
@@ -827,7 +827,7 @@
       "endDate": "2022-07-11",
       "orderExpiryDate": "2022-07-01",
       "maxOrderTotal": 3,
-      "cost": 1,
+      "cost": 0,
       "certificateLevelId": 1,
       "cylinderTotal": "",
       "isNitrox": 0,
@@ -910,7 +910,7 @@
       "id": 1,
       "activityId": 17,
       "userId": 1,
-      "creationDate": 1677460660966,
+      "creationDate": 1663028767000,
       "score": 4.2,
       "content": "考完 OW 第一次跟團潛水，第一潛下去的時候，好緊張，還好同團的潛友都很 nice 的指導我技巧，消除擔憂的心。愛潛水很活潑也很會帶動氣氛，讓大家第一次見面就玩得得很開心，下次會再報名愛潛水的團。"
     },
@@ -918,7 +918,7 @@
       "id": 2,
       "activityId": 17,
       "userId": 5,
-      "creationDate": 1677460660966,
+      "creationDate": 1663424634000,
       "score": 3.5,
       "content": "看了一堆海龜和小丑魚（其實是我只認識這兩個生物，其他的只能說看起來很好吃）\n主揪很好相處的人，有任何問題都可以隨便問，也非常好聊，也很認真幫大家拍美美的照片。"
     },
@@ -926,7 +926,7 @@
       "id": 3,
       "activityId": 19,
       "userId": 3,
-      "creationDate": 1677460660966,
+      "creationDate": 1669562603000,
       "score": 3.7,
       "content": "帛琉的海底世界真得是很美！如果喜歡海底世界的人，真得是一生必去一次的地方。在要出發前，我一直懷著忐忑不安的心，踏上了帛琉之旅，很慶幸同行的潛伴，很幽默，也很搞笑，讓我們這趟旅程充滿歡樂與驚喜。下次再一起潛旅~~"
     },
@@ -934,9 +934,64 @@
       "id": 4,
       "activityId": 18,
       "userId": 2,
-      "creationDate": 1677460660966,
+      "creationDate": 1657781534000,
       "score": 4.8,
       "content": "感謝主揪提供免費的潛水指導，教了我許多潛水技巧，我的中性浮力變得更加穩定，水中耗氧的問題也改善了許多，這麼佛心的主揪，肯定要來推一下。"
+    },
+    {
+      "id": 5,
+      "activityId": 17,
+      "userId": 2,
+      "creationDate": 1663485877000,
+      "score": 4.0,
+      "content": "找到可愛的漂亮的各種小生物讓我大開眼界，一趟充滿驚喜與歡笑的潛旅。感謝主揪，下次再一起出遊。"
+    },
+    {
+      "id": 5,
+      "activityId": 17,
+      "userId": 5,
+      "creationDate": 1664598279000,
+      "score": 4.3,
+      "content": "主揪和其他潛友人都很好、都很活潑~ 讓比較慢熟的我們玩得很開心！還剛好遇到能見度超好的潮境非常幸運。"
+    }
+  ],
+  "messages": [
+    {
+      "id": 1,
+      "userId": 5,
+      "activityId": 4,
+      "content": "供餐部分有提供素食嗎？",
+      "updateDate": 1677682908000
+    },
+    {
+      "id": 2,
+      "userId": 1,
+      "activityId": 4,
+      "content": "請問如果要加潛，費用怎麼算？",
+      "updateDate": 1677829668000
+    }
+  ],
+  "messageReplys": [
+    {
+      "id": 1,
+      "userId": 4,
+      "messageId": 2,
+      "content": "一支優惠價 $800 元",
+      "updateDate": 1677858301000
+    },
+    {
+      "id": 2,
+      "userId": 1,
+      "messageId": 2,
+      "content": "好的，謝謝您！那我要加潛 2 支。",
+      "updateDate": 1677880882000
+    },
+    {
+      "id": 3,
+      "userId": 4,
+      "messageId": 2,
+      "content": "到現場直接和潛店告知，就可以囉~~",
+      "updateDate": 1677899227000
     }
   ]
 }
