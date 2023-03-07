@@ -7,7 +7,7 @@
       "img": "https://storage.googleapis.com/vue-course-api.appspot.com/ella-diving/1677852678845.jpg?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=B2zrGR3fG1NfRr7WE7oQV1yVQ%2FMvF%2FFDuSPCZpvJLnf35Yyhv198g0IoUtGVE0%2F%2FoX%2FCSrPy5Km0d%2FwsFeueUodNE1IqScH4UcDAb5q%2BOyG%2FQJbC2N0Ao35VOLdNY3HHV7fhmQIYptoWGgs6iJg%2BAfhnb1WuRHj3IjH3hPK9NlWx9%2FWV3OqBGrZ4A5jKKxxtP1%2FAKI99SmOei3Lo7Ae7T4XVgNEBNNkkC8D%2BNXLU2CRh%2BsisEBMTR8bD1rHOg2AvTcbYRSiX8tyITylMmz6KuLzLH%2FO1bQdJON2xLI%2FxNRfcBIHOexI8sBSBTzlXgGYUmXqh0LdPVEsb99KDeqElWQ%3D%3D",
       "certificateLevelId": 2,
       "isNitrox": 1,
-      "cylinderTotalId": 2,
+      "cylinderTotalId": 3,
       "creationDate": 1677051133896,
       "identityId": "0",
       "id": 1
@@ -927,6 +927,12 @@
       "creationDate": 1678113502983,
       "userId": "5",
       "id": 7
+    },
+    {
+      "activityId": 12,
+      "creationDate": 1678189485371,
+      "userId": "1",
+      "id": 8
     }
   ],
   "comments": [
