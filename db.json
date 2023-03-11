@@ -2,86 +2,75 @@
   "users": [
     {
       "email": "yanzi19841227@gmail.com",
-      "password": "$2a$10$iMA29GU6SDZK8fe/0l587OkyF6FSn5CnHj048yfyNJZRkJz2Jegz.",
+      "password": "$2a$10$90SAE7eaoqaFBF9GsxhMbui2yH7C3nQklXfezIPoQZYIIh.2vjOPG",
       "name": "ella",
       "img": "https://storage.googleapis.com/vue-course-api.appspot.com/ella-diving/1677852678845.jpg?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=B2zrGR3fG1NfRr7WE7oQV1yVQ%2FMvF%2FFDuSPCZpvJLnf35Yyhv198g0IoUtGVE0%2F%2FoX%2FCSrPy5Km0d%2FwsFeueUodNE1IqScH4UcDAb5q%2BOyG%2FQJbC2N0Ao35VOLdNY3HHV7fhmQIYptoWGgs6iJg%2BAfhnb1WuRHj3IjH3hPK9NlWx9%2FWV3OqBGrZ4A5jKKxxtP1%2FAKI99SmOei3Lo7Ae7T4XVgNEBNNkkC8D%2BNXLU2CRh%2BsisEBMTR8bD1rHOg2AvTcbYRSiX8tyITylMmz6KuLzLH%2FO1bQdJON2xLI%2FxNRfcBIHOexI8sBSBTzlXgGYUmXqh0LdPVEsb99KDeqElWQ%3D%3D",
       "certificateLevelId": 2,
       "isNitrox": 1,
-      "cylinderTotalId": 3,
-      "creationDate": 1677051133896,
+      "cylinderTotalId": 5,
+      "creationDate": 1678509046625,
       "identityId": "0",
       "id": 1
     },
     {
-      "email": "test@gmail.com",
-      "password": "$2a$10$6W6jEYpI8chYfF.cpDwYQeIpXdzTzC/9Xxx7WalGv01xpb5VbOXL2",
+      "email": "test01@gmail.com",
+      "password": "$2a$10$XB55t3GBpEzmVobn3MXTceiCgx7o2ycy76VMNRZ76lyvclQKhLZYy",
       "name": "轟轟",
       "img": "",
       "certificateLevelId": 1,
       "isNitrox": 0,
       "cylinderTotalId": 1,
-      "creationDate": 1677114550247,
+      "creationDate": 1678514825232,
       "identityId": "1",
       "id": 2
     },
     {
-      "email": "test01@gmail.com",
-      "password": "$2a$10$eO2Et7P9c79.Alcu.ljeKOCbFDFboK8eF3eeH1dg3PK39ZZaSAfEG",
+      "email": "test02@gmail.com",
+      "password": "$2a$10$XB55t3GBpEzmVobn3MXTceiCgx7o2ycy76VMNRZ76lyvclQKhLZYy",
       "name": "愛潛水",
       "img": "",
       "certificateLevelId": 1,
-      "isNitrox": 1,
+      "isNitrox": 0,
       "cylinderTotalId": 6,
+      "creationDate": 1678514825232,
       "identityId": "1",
       "id": 3
     },
     {
-      "email": "test02@gmail.com",
-      "password": "$2a$10$kTEgvrCewVA1vXiZpMWOueHK3XfU0HSsUacdFfu0gcS0wikfcZMIW",
+      "email": "test03@gmail.com",
+      "password": "$2a$10$62gF/MUSaFx20ZHttn2i5Og1CqiZ5xv608R5V4TEJa4jPKk7bWKnu",
       "name": "阿唷",
-      "img": "https://storage.googleapis.com/vue-course-api.appspot.com/ella-diving/1677852738050.jpg?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=m%2B8HEmJ9WqMxC9CNVNL3ZILVvNHw%2ByC1dRhNs6pYsMDCMNY5IXS6k66kdzJhyMGqgZ%2FbmMc%2B3evMESURdP1qrJxEJFb0wQXbHYXh%2Fzqm%2FxX87ELeQ%2Ba9Co80m6qFx6GhNGbhe1WX9%2FYgs5eHWz440HYti2FSVKmmPLRpSihKJmSjx4TckjjLYG8r%2F7RNlW4BSzdhD3nmt%2BJ0e1srHqq6rNr4j1E0mEotxvWSfVJEWjJuFxYf5GdNgz3WWr9Swr5ogFZYwCJP719Hjqm9YuAFWd2bL5aLOv5UjX3BmmQsa9m9%2FnbKYQ18xGQDxFtmExDtjrvjaLZ2m7HJwIgDe0h%2FfQ%3D%3D",
+      "img": "",
       "certificateLevelId": 3,
       "isNitrox": 1,
       "cylinderTotalId": 7,
-      "creationDate": 1677120856465,
+      "creationDate": 1678515387191,
       "identityId": "1",
       "id": 4
     },
     {
-      "email": "test03@gmail.com",
-      "password": "$2a$10$zExYHdK.rx/EwPJ9EIV3H.FglJxHC.3h.roWqtTDE9O/c2w4N1CMa",
-      "name": "mary",
+      "email": "test04@gmail.com",
+      "password": "$2a$10$nC3HR.svUHJeisNjuZzsaewtwQR53VlSm6CXJM0QCu/DFt7n8x9ia",
+      "name": "Mary",
       "img": "",
       "certificateLevelId": 5,
       "isNitrox": 1,
       "cylinderTotalId": 9,
-      "creationDate": 1677141402148,
+      "creationDate": 1678515978769,
       "identityId": "1",
       "id": 5
     },
     {
       "email": "test05@gmail.com",
-      "password": "$2a$10$PDYg6Xrv4kO3OHehXrfgQusnsQJnb1SaTFwmX9eht7kOB.LdBVrEm",
+      "password": "$2a$10$eD/nga.KD3MXoqc7KCXO3.T7Y74aK1wspZpv46/uTcUolHraNsqN6",
       "name": "庫歌",
       "img": "",
-      "certificateLevelId": 1,
-      "isNitrox": 0,
-      "cylinderTotalId": 1,
-      "creationDate": 1677141463871,
+      "certificateLevelId": 2,
+      "isNitrox": 1,
+      "cylinderTotalId": 3,
+      "creationDate": 1678517026506,
       "identityId": "1",
       "id": 6
-    },
-    {
-      "email": "test06@gmail.com",
-      "password": "$2a$10$7LbFsAQKF0KfBWUDT02r1eMZgKQgkU4YhXzjaNTQXxYSa3Rgiw5zC",
-      "name": "ㄚ六",
-      "img": "",
-      "certificateLevelId": 2,
-      "isNitrox": 0,
-      "cylinderTotalId": 2,
-      "creationDate": 1677141611179,
-      "identityId": "1",
-      "id": 7
     }
   ],
   "identitys": [
@@ -295,17 +284,17 @@
       "content": "費用包含\n- 5 天 4 夜雙人房住宿（含早餐）\n- 3 天 9 支船潛\n- 出海日中午精緻午餐、水、飲料、點心\n- 機場接送\n- 每日晚餐\n- 洛克群島出海稅 USD50\n- 導遊小費\n- 帛琉消費稅 PGST10%",
       "startDate": "2023-05-06",
       "endDate": "2023-05-10",
-      "orderExpiryDate": "2023-04-15",
+      "orderExpiryDate": "2023-04-14",
       "maxOrderTotal": 1,
       "cost": 39999,
       "certificateLevelId": 2,
       "cylinderTotalId": 6,
       "isNitrox": 0,
       "tags": [
-        "船潛",
-        "海外"
+        "海外",
+        "船潛"
       ],
-      "updateDate": 1677986850774,
+      "updateDate": 1678513149165,
       "userId": "1",
       "id": 1
     },
@@ -327,7 +316,7 @@
       },
       "locationId": "8",
       "features": "圖巴塔哈（Tubbataha Reef）是聯合國文教科組織认定的世界自然遺產，擁有菲律賓乃至東南亞最豐富的物種和保存得最好的原始珊瑚礁群。可是全年的潜水季節相當短暫，只在 3 月中旬至 6 月中旬適合潜水活動，故每逢「圖巴塔哈季」運營的潜水專用船很快就會被預訂一空。",
-      "content": "行程費用包含：\n每人獨立床位，衛浴共用，房間有冷氣和有熱水洗澡。\n七天，五個潛水天，共 20 支\n7 days, 5 diving days, 20 dives(全部都高氧)\n六個晚上住宿+三餐+水+咖啡/茶(非酒精飲料)\n2-3 位導潛，小團體潛水。\n\n行程費用不包含：\n100 USD fuel surcharge\n5000 PHP 的國家公園稅\n酒類飲料、小費、裝備租借(租用另計)\n機票交通及行程外的飯店、餐食\n旅遊保險及潜水保險\n菲律賓簽證",
+      "content": "行程費用包含：\n每人獨立床位，衛浴共用，房間有冷氣和有熱水洗澡。\n七天，五個潛水天，共 20 支(全部都高氧)\n六個晚上住宿 + 三餐 + 水 + 咖啡 / 茶(非酒精飲料)\n2-3 位導潛，小團體潛水。\n\n行程費用不包含：\n100 USD fuel surcharge\n5000 PHP 的國家公園稅\n酒類飲料、小費、裝備租借(租用另計)\n機票交通及行程外的飯店、餐食\n旅遊保險及潜水保險\n菲律賓簽證",
       "startDate": "2023-05-23",
       "endDate": "2023-05-29",
       "orderExpiryDate": "2023-03-31",
@@ -337,45 +326,73 @@
       "cylinderTotalId": 5,
       "isNitrox": 1,
       "tags": [
+        "船潛",
         "海外"
       ],
-      "updateDate": 1677426686856,
+      "updateDate": 1678513374417,
       "userId": "1",
       "id": 2
     },
     {
-      "title": "綠島水肺潛水團 3D2N",
+      "title": "宿霧（媽媽島）六天五夜",
       "imgs": {
         "img_1": {
-          "img": "https://storage.googleapis.com/vue-course-api.appspot.com/ella-diving/1677518239335.jpg?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=ElkoAvyjKJNoFTiiqMd52%2BlqWhOzjJEvih0ofl%2FcWGT2yL9gMCF5huTV6WQsVU6oELmpg0Tbq%2B8CYvhyMnMOOcZGjev%2FF%2B7m3MSSSDyZESG6YaFE%2FK9VEoiz6CQ7Xh%2B2c977%2FDRaXfa5VJKW%2BBoYeg%2F3qxO9fv2tfLVX1tbjpBzBbdkzktTYNa50lDkIdL442SNQH%2FbUuKw3sLDYpuopxPFI9maoSHLCAvp%2BDGHnPnpIdrmSs5%2BMD9K8EAB1wkN%2BRTnaamlxaDNgSuk%2B2XdLQddM1NWOO9SmPWoCBssbxbThr%2FxC%2Bul4xKGYkH1g2Z0apObpJe2mh7yqzyW2uZGWAg%3D%3D",
+          "img": "https://storage.googleapis.com/vue-course-api.appspot.com/ella-diving/1677518804305.jpg?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=kiWMJGBaWq%2FqYFe5NhtPefrBXppdpaZDZ40uPyOUxvEbxRm2ztEzOX3tO%2Fjj%2Brvur0s1YvBpYY6wlCSnwGrvG4XGwK%2BOiKrXUDyi9GFJ4U8Qw6IGtzj5EHpOhkGKFnu7O8mUPsLWLH6m%2BVhg74SHkKkACG%2BSQHb0VUicVsgEXXy5a%2FwDt0TsXgCn88XmEmCZN1mlMtcn7XHdqaUx9cmho5nMjeiNRkXXjx6I1kYDZZQbqO6sBvjpDWK%2FXYJ9LZbIi8Q%2BJzojIrhB6aKGALo6HzBu3Evh1sgc0aI7mziduUSEdaSyVsy3pj1eGX6eyhJEAGyKvyc4K1OzwXNyyoMBEw%3D%3D",
           "isMain": true
         },
-        "img_1677426926139": {
-          "img": "https://storage.googleapis.com/vue-course-api.appspot.com/ella-diving/1677518241192.jpg?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=qVahWGsQdiuA%2FUjano9cFtOY1yrHNSulJxUs6hYZyIiS2Tj9%2BxNC6N1C3A88uZxj4%2BxGXG%2FS4KPfkbiZjJycIZhIXpLGbXz3LqJd2IfIKVx%2FTmchho05RPzttq%2FCh8dwALBCl8Z4NQdXOO9dofa9uD9c0sNnVom6fcIjryz5FEkwVlTDvP7oZmDUDj4nLqtuXVS7ZSvdwrJvZHE3q%2FCR4gRYfrQTUoTq9FHg5lJ0TsoX7kJfYSpLOE0vOxJjuhIdDxhvBJr%2BvTjFp31p8SmNoPPAYEuQrTAMQN0J5Bx674Ewwb9NGtOiRNXAGZmEDjex1dGwAbdTEsMyTwuviuiMCw%3D%3D",
+        "img_1677428540639": {
+          "img": "https://storage.googleapis.com/vue-course-api.appspot.com/ella-diving/1677518806089.jpg?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=GbEV9utxPDqwaQFL9EcRKhn5KYYgUaChx0DA1yV8i9w9Lf0V6o%2FA5Hl7TlrDFIe0nH%2FQeO8s87iF25aS%2BjNda43fe6DPiBamOTtCpaTYl8bmYpVYrkcwTlnoEvHnKTlvhPA5FYKoTzb0IKku6nVELnppfsGsTIhOsisygdOh9zVFznlla43tlBDbOgjL4DjunP6uiMbO%2BXQ1dMAjY9wYwecaCLFD37lcEhG5A7TiqPXEQM2atmxsGoJsJBYvfqxythLixNG6lDdS7aDp9yHbYIYr%2BlKu%2BaVH59%2FPk%2F6%2BVgh7u1PKyc1XLpQk0WBKib59tHd8x%2FbFu7C4HHY%2BP5R79w%3D%3D",
+          "isMain": false
+        },
+        "img_1677428545702": {
+          "img": "https://storage.googleapis.com/vue-course-api.appspot.com/ella-diving/1677518810639.jpg?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=es8UWR2Og53E6qhGV4SN%2FaNkzC%2FbZRQiJwOvqA5GNt7pM34QKV5Ttsc%2FKicJxylBDavGsriys3EWBHijpSsrSSlUcR6oEWibKFAFIgt8%2B9n6i%2FJpHO3ZfNPSjpXXFRg%2Ft%2FXnwZA%2Br1wHwSxG6XHgBo4XFm9mXNlf%2B3raU5gQsSgU2ZQBtFYfgf7SrYRG2NQFwDsg3HF48ZH4zEOl7m9HXVcY1J2sid5Gq6Akof3C%2FKotHlo45fpsMYkoyFN0Oivge8PNrWuqoVaoc%2F9f9ChcbJvKsKcFcMKS2S16K1W6i4bPVS2KYCf2kIllb8UkYuWTQcj4f90G%2F7xfdFTIDyLSrQ%3D%3D",
           "isMain": false
         }
       },
-      "locationId": "1",
-      "features": "輕鬆放鬆沒有壓力",
-      "content": "Day1\n上午第一班船上島\nCheck in \n上午岸潛1支\n下午船潛2支\nDay2\n上午船潛2支\n下午船潛2支\nDay3\n睡飽陸遊、乾燥撤收\n\n費用包含（✔️含、✖️不含）\n✔️來回船票\n✔️背包房住宿 2 晚\n✔️氣瓶導潛船岸潛\n✔️早、中餐\n✔️島上交通(機車共乘)\n✖️裝備租借\n✖️晚餐",
-      "startDate": "2023-04-21",
-      "endDate": "2023-04-23",
-      "orderExpiryDate": "2023-03-31",
-      "maxOrderTotal": 5,
-      "cost": 4999,
-      "certificateLevelId": 1,
-      "cylinderTotalId": "",
+      "locationId": "3",
+      "features": "六天五夜 共 10 潛（住沙灘渡假村）\n一晚住宿霧逛 shopping  mall\n\n第一日 \n抵達後機場接駁前往碼頭搭船\n中間短暫停留自費用餐 約下午 4-5 點登島入住\n\n第二日 \n上午出發船潛三次（含測潛）\n\n第三日\n上午出發船潛四次（長尾鯊或Gato)\n\n第四日\n上午出發船潛三次（討論潛點）\n\n第五日\n上午搭船出島直奔市區（約 2 點左右）\n\n第六日\n下午 17 點左右搭機\n10 潛 + 接駁 + 4 晚島上渡假村住宿\n除了鯊魚潛之外\nKalanggaman、Gato 這兩個區域會排入潛點的規劃",
+      "content": "費用含\n晚餐 4 晚、導潛、船資、一般空氣瓶、國家公園稅金、船上點心、機場接駁車、交通接駁船、潛水小費",
+      "startDate": "2023-07-15",
+      "endDate": "2023-07-20",
+      "orderExpiryDate": "2023-05-31",
+      "maxOrderTotal": 8,
+      "cost": 19999,
+      "certificateLevelId": 2,
+      "cylinderTotalId": 3,
       "isNitrox": 0,
       "tags": [
-        "假日團",
-        "綠島",
-        "岸潛",
-        "船潛",
-        "新手練功團"
+        "海外",
+        "船潛"
       ],
-      "updateDate": 1677426932603,
+      "updateDate": 1678513802307,
       "userId": "1",
-      "id": 3
+      "id": 4
+    },
+    {
+      "title": "澎湖南方四島水肺潛水團",
+      "imgs": {
+        "img_1": {
+          "img": "https://storage.googleapis.com/vue-course-api.appspot.com/ella-diving/1677518980547.jpg?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=SYZL9N74Hg3F2SSbLNFvinIG5f9T%2BFcaLy8mQZB5nab99suhM8c1eJnf7gjywl%2FWgJ0cxuysQbVzkq4S551PFDR11kSi00iC2U4ht4QrmhtO6djHPjY%2FR5blXxdsz0k6S9zLnyGZlL%2FLRJtGE95nec6uZHhQ%2F4CSrb7rQ6RZQFs9GFH2SPhdD5U8m8ybJcWzHJQ8lbBFVaucyWC3ftYUAmZ3QB2s5msFt9NT816znbgNmmmBMdUY7AavmGxGoNaYTfnw1OYiPUnJm8BJfPbXkIy7mkeQ7%2FJVWy%2Br7CxqM66KTlgn%2Fe6fpj2yGqI5e5Y0VCqQwtGlwcBLgWOajb%2F7xQ%3D%3D",
+          "isMain": true
+        }
+      },
+      "locationId": "4",
+      "features": "",
+      "content": "第一日: \n(早餐自理)\n早上 9:00 在興港南街碼頭集合到將軍島 \n(9點出發才不會影響潛水行程,延誤請務必告知)\n10:00 到將軍入住 + 午餐 \n下午船潛兩支，住宿將軍\n\n第二日: \n(早餐 06:00 集合)\n約 06:30-08:00 點出發，出發時間依當天潮汐時間\n南方四島船潛三支，晚上住宿將軍\n\n第三日:\n(早餐 06:00 集合)\n約 06:30-08:00 點出發, 出發時間依當天潮汐時間\n南方四島船潛三支，晚上住宿將軍\n\n第四日:\n(早餐 06:30 集合)\n早上 07:00-08:00 專船返回馬公",
+      "startDate": "2023-04-16",
+      "endDate": "2023-04-19",
+      "orderExpiryDate": "2023-03-31",
+      "maxOrderTotal": 2,
+      "cost": 6500,
+      "certificateLevelId": 2,
+      "cylinderTotalId": 1,
+      "isNitrox": 0,
+      "tags": [
+        "船潛"
+      ],
+      "updateDate": 1678514127291,
+      "userId": "1",
+      "id": 5
     },
     {
       "title": "綠島潛水(三天兩夜)",
@@ -395,24 +412,55 @@
       },
       "locationId": "1",
       "features": "探索綠島秘境\n高手級潛伴幫您照片拍好拍滿",
-      "content": "第一天 5/12:\n建議可於前一晚(5/11)自行前往台東住宿，5/12 當天 08:30 於台東富岡漁港售票處集合，搭乘 09:30 船班出發~船程約 50 分鐘，抵達綠島後領取機車前往民宿休息整理裝備，填寫資料，用完午餐後下午船潛 2 支，晚上夜潛(採自由參加，另外收費)。\n住宿:海洋之家潛水民宿雙人套房兩晚\n\n第二天 5/13:\n早餐後船潛 2 支，下午船潛 2 支，晚上可騎乘機車環島欣賞島上風景，晚上夜潛(採自由參加，另外收費)。結束後清洗裝備晾乾。(船潛點依當天天候及浪況決定)\n\n第三天 5/14:\n早餐後整理行李裝備，或是買些伴手禮，約 11:30 潛店前集合前往碼頭，搭乘 12:30 船班返回台東富岡漁港，結束本次綠島潛水旅遊。\n\n參加資格:\n1.持任何系統之進階開放水域證照以上，或是有深潛證照者，若無可利用這三天上課。\n2.請攜帶全套潛水裝備、電腦表、浮力袋、手電筒、合格潛水證照。若無裝備可以租借，但需提前預訂。\n費用包含：台東富岡至綠島往返船票、島上交通(機車2人一部)、兩晚雙人房住宿、配重、潛水船租、導潛、6支船潛使用氣瓶，兩天早餐、三天中餐、富邦潛水險。\n費用不包含：外地往返台東富岡之交通，5/11 食宿費用，每日晚餐，潛水裝備 ( 輕重裝如有需要可租借，全套輕重裝1200/天 )、個人性之消費、夜潛、高氧氣瓶、行程中額外潛水。\n\n注意事項:\n1.本次綠島潛旅活動之活動日期為計劃日期，尚需配合台東富岡←→綠島之船班日期及天候狀況等因素，實際船班日期需出發日前一週方能確定，如時間有更動，將盡快通知。\n2.本次綠島潛旅活動費用，請於報名後繳交訂金 5000 元以利方便作業，並於 4/15 前繳清剩餘費用，若因個人因素無法如期參加，費用無法退還，但可以轉讓，否則仍須繳清全部費用。行程中若因個人因素無法參加，恕不退費。若因天候船班停駛，則扣除相關費用後退還，或是改期。",
+      "content": "第一天 5/12\n建議可於前一晚(5/11)自行前往台東住宿，5/12 當天 08:30 於台東富岡漁港售票處集合，搭乘 09:30 船班出發~船程約 50 分鐘，抵達綠島後領取機車前往民宿休息整理裝備，填寫資料，用完午餐後下午船潛 2 支，晚上夜潛(採自由參加，另外收費)。住宿：海洋之家潛水民宿雙人套房兩晚\n\n第二天 5/13\n早餐後船潛 2 支，下午船潛 2 支，晚上可騎乘機車環島欣賞島上風景，晚上夜潛(採自由參加，另外收費)。結束後清洗裝備晾乾。(船潛點依當天天候及浪況決定)\n\n第三天 5/14\n早餐後整理行李裝備，或是買些伴手禮，約 11:30 潛店前集合前往碼頭，搭乘 12:30 船班返回台東富岡漁港，結束本次綠島潛水旅遊。\n\n參加資格：\n1.持任何系統之進階開放水域證照以上，或是有深潛證照者，若無可利用這三天上課。\n2.請攜帶全套潛水裝備、電腦表、浮力袋、手電筒、合格潛水證照。若無裝備可以租借，但需提前預訂。\n\n費用包含：台東富岡至綠島往返船票、島上交通(機車2人一部)、兩晚雙人房住宿、配重、潛水船租、導潛、6 支船潛使用氣瓶，兩天早餐、三天中餐、富邦潛水險。\n\n費用不包含：外地往返台東富岡之交通，5/11 食宿費用，每日晚餐，潛水裝備 ( 輕重裝如有需要可租借，全套輕重裝 1200/天 )、個人性之消費、夜潛、高氧氣瓶、行程中額外潛水。\n\n注意事項：\n1.本次綠島潛旅活動之活動日期為計劃日期，尚需配合台東富岡←→綠島之船班日期及天候狀況等因素，實際船班日期需出發日前一週方能確定，如時間有更動，將盡快通知。",
       "startDate": "2023-05-12",
       "endDate": "2023-05-14",
       "orderExpiryDate": "2023-04-15",
       "maxOrderTotal": 10,
-      "cost": 7999,
-      "certificateLevelId": 2,
-      "cylinderTotalId": 4,
+      "cost": 7799,
+      "certificateLevelId": 1,
+      "cylinderTotalId": 2,
       "isNitrox": 0,
       "tags": [
+        "岸潛",
         "船潛",
         "綠島",
-        "夜潛",
-        "假日團"
+        "假日團",
+        "夜潛"
       ],
-      "updateDate": 1677427329341,
-      "userId": "4",
-      "id": 4
+      "updateDate": 1678515143130,
+      "userId": "3",
+      "id": 7
+    },
+    {
+      "title": "澎湖 南方四島自揪團",
+      "imgs": {
+        "img_1": {
+          "img": "https://storage.googleapis.com/vue-course-api.appspot.com/ella-diving/1677518891091.jpg?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=h3hrSXdwxmpNJAifSP%2BOCthI0T35SuQ1TgWUhRzP85zqTP1%2BoaeUb6X043qvbtvJHxiod7tn5HVXy5xfOD873YoWRDKXBJMigHUssNCuTgrBFXNAC%2BXR2slAIrqdLq54wUhNDdQCoioh2cAkgPXSJs3LmyB6x5fAM1lu4Q4kM89iSNuw7sEKpI5%2BKntXMJak9pnPY88KgLNgKi2Fe%2BiKZpUw1lpwjtKszNdo%2BWUbgshiGoM39yGeqbVh7yvmM56ksW5gzhn6E%2FclqI5IHiviOe9YtPF4fk2TewnJH38kD%2BlMdXc1NGSDlhgf3rgseg6NKTBMY9bEPSb7B362kJFt4g%3D%3D",
+          "isMain": true
+        },
+        "img_1677428810917": {
+          "img": "https://storage.googleapis.com/vue-course-api.appspot.com/ella-diving/1677518901947.jpg?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=eieW18OHCMD5SHVoMdEI1yO6eZzpjVvaopLcOwcXffmFV3aMw4qt88B0oWkB6Pl6X4SMTKl8u5gvC1c0qNtDX%2ByIy3M3HmsqfZ%2BVRxGIR2pFFOmAsZFTZPbHEbz3F6ieuwTg7AArqOi1ZL3ix4xvIO4Wpd3QFvCIKCmP9aW9TQQScWSqW6eECsY44uWXtl7Bzc5M9ej42U9p0ldjIifc%2B4WgsWH7g40PkD7AeDVyhSOL9loWz7tFFB42LE19lt8f5knojAdeqG2UB5F6wBEUGuSvwp%2FQg6K%2BV0evTox3sM7ySLdYz%2Fyhoeo3%2BWyq7LKSK1NRzkf6iE8BKSjRajDDfQ%3D%3D",
+          "isMain": false
+        }
+      },
+      "locationId": "4",
+      "features": "06/24（三）澎湖本島陸上一日遊\n06/25（四）薰衣草森林浮潛 + 南方四島船潛 3 支\n06/26（五）南方四島高階潛點，船潛 3 支\n06/27（六）視體力加潛，下午回馬公本島遊玩\n06/28（日）下午班機返回台灣",
+      "content": "費用包含：\n潛水船費、小費、氣瓶、導潛，東吉住宿 2 日，澎湖本島住宿 2 日，本島機車 2 日（2 人 1 台），保險（潛水險+旅平險）\n\n費用不含：\n餐食及個人開銷\n到澎湖交通費用（可協助代訂）",
+      "startDate": "2023-06-24",
+      "endDate": "2023-06-28",
+      "orderExpiryDate": "2023-05-01",
+      "maxOrderTotal": 2,
+      "cost": 7593,
+      "certificateLevelId": 2,
+      "cylinderTotalId": 2,
+      "isNitrox": 0,
+      "tags": [
+        "船潛"
+      ],
+      "updateDate": 1678515317418,
+      "userId": "3",
+      "id": 8
     },
     {
       "title": "菲律賓 Moalboal",
@@ -426,12 +474,12 @@
           "isMain": false
         }
       },
-      "locationId": "16",
+      "locationId": "3",
       "features": "合法旅行社協辦\n全程有隨團教練",
-      "content": "第一天 台北/宿霧~莫亞礁     \n航班 BR281 0755/1050  集合於桃園國際機場，搭乘豪華班機前往宿霧國際機場，抵達後直接搭車 前往 TIPOLO BEACH RESORT 渡假村 CHECK IN。 \n宿：TIPOLO BEACH RESORT (或同等級住宿)      \n食：早 飛機餐 午 X 晚 X\n\n第二天 莫亞礁潛水\n(船潛 3 支) 享用早餐後，出發到潛店 Savedra Dive Center 測潛。此潛點為著名的微距潛場，熱愛微距攝影的潛友別忘了帶相機。水下豐富的軟硬珊瑚遍布海裡，海龜不時悠遊在身旁令人印象深刻，不時可見海龍。下午將前往Capton point & Bas Diot 潛水，巨型的獅子魚與眾多的天筑鯛，還有躲在沉在水中的飛機殘駭中的各種彩虹豹鱒、石狗公都是拍照的好對象。                                          \n食：早 O 午 X 晚 X  \n\n第三天 莫亞礁潛水\n(船潛 3 支) 享用早餐後，出發前往 Pescador 島船潛。Pscador Island 為菲律賓莫亞 礁附近最著名潛點之一，為一片漸斜坡連接著淺牆，成千上萬的小魚聚 居在黑珊瑚叢林和洞穴中，石斑﹑外科醫生魚穿梭其中，而同種類的小 丑魚﹑海葵和硬珊瑚更布滿海床。強流區常見巨型迴游魚，快速的水流 讓你有坐雲霄飛車般的快感。 \n食：早 O 午 X 晚 X  \n\n第四天 莫亞礁潛水\n(船潛 2 支) 享用早餐後，出發前往最富盛名的 Senken Island 潛點，船程約 1 個小時，位於水下 22 公尺深的高級潛場 Senken Island，終年水流湍急、景色壯觀。峭壁邊緣佈滿各式各樣軟硬珊瑚，而彩色繽紛的熱帶魚令您目不暇給，各式各樣的魚群與魚種遍布海中，狂放的水流與巨型的海扇令 人終生難忘。 \n食：早 O 午 X 晚 X  \n\n第五天 莫亞礁~宿霧/台北                          \n航班 BR282 1215/1510 早餐後專車接往宿霧國際機場搭機返台，結束豐富的莫亞礁潛水之旅。  \n\n包含：台北~長榮宿霧機票/菲律賓簽證/ 5 天 4 夜二人一室住宿/第 2 到第 5 天早餐/船潛 8 支/機場~渡假村來回接送/ 500萬旅行業責任保險 + 20 萬醫療險\n\n報價不含：全程午、晚餐/小費/個人其他額外支出/潛水租借裝/高氧氣瓶(每支菲幣p250元)\n※潛水裝備請自備。 \n※潛水時間及地點基於安全考量，得因當時天候情況由當地導潛決定及調整。",
+      "content": "第一天 \n台北/宿霧~莫亞礁 \n航班 BR281 0755/1050  集合於桃園國際機場，搭乘豪華班機前往宿霧國際機場，抵達後直接搭車 前往 TIPOLO BEACH RESORT 渡假村 CHECK IN。 \n宿：TIPOLO BEACH RESORT (或同等級住宿) \n食：早 飛機餐 午 X 晚 X\n\n第二天 莫亞礁潛水(船潛 3 支)\n享用早餐後，出發到潛店 Savedra Dive Center 測潛。\n此潛點為著名的微距潛場，熱愛微距攝影的潛友別忘了帶相機。水下豐富的軟硬珊瑚遍布海裡，海龜不時悠遊在身旁令人印象深刻，不時可見海龍。下午將前往Capton point & Bas Diot 潛水，巨型的獅子魚與眾多的天筑鯛，還有躲在沉在水中的飛機殘駭中的各種彩虹豹鱒、石狗公都是拍照的好對象。\n食：早 O 午 X 晚 X \n\n第三天 莫亞礁潛水(船潛 3 支) 享用早餐後，出發前往 Pescador 島船潛。\nPscador Island 為菲律賓莫亞 礁附近最著名潛點之一，為一片漸斜坡連接著淺牆，成千上萬的小魚聚 居在黑珊瑚叢林和洞穴中，石斑﹑外科醫生魚穿梭其中，而同種類的小 丑魚﹑海葵和硬珊瑚更布滿海床。強流區常見巨型迴游魚，快速的水流 讓你有坐雲霄飛車般的快感。\n食：早 O 午 X 晚 X \n\n第四天 莫亞礁潛水(船潛 2 支)\n享用早餐後，出發前往最富盛名的 Senken Island 潛點，船程約 1 個小時，位於水下 22 公尺深的高級潛場 Senken Island，終年水流湍急、景色壯觀。峭壁邊緣佈滿各式各樣軟硬珊瑚，而彩色繽紛的熱帶魚令您目不暇給，各式各樣的魚群與魚種遍布海中，狂放的水流與巨型的海扇令 人終生難忘。 \n食：早 O 午 X 晚 X \n\n第五天 莫亞礁~宿霧/台北\n航班 BR282 1215/1510 早餐後專車接往宿霧國際機場搭機返台，結束豐富的莫亞礁潛水之旅。\n\n包含：\n台北~長榮宿霧機票\n菲律賓簽證\n5 天 4 夜二人一室住宿\n第 2 到第 5 天早餐\n船潛 8 支\n機場~渡假村來回接送\n500 萬旅行業責任保險 + 20 萬醫療險\n\n不含：\n全程午、晚餐 / 小費 / 個人其他額外支出\n潛水租借裝高氧氣瓶(每支菲幣 p250 元)\n\n※潛水裝備請自備。 \n※潛水時間及地點基於安全考量，得因當時天候情況由當地導潛決定及調整。",
       "startDate": "2023-04-27",
       "endDate": "2023-05-01",
-      "orderExpiryDate": "2023-02-28",
+      "orderExpiryDate": "2023-03-12",
       "maxOrderTotal": 20,
       "cost": 33000,
       "certificateLevelId": 2,
@@ -439,11 +487,12 @@
       "isNitrox": 1,
       "tags": [
         "海外",
-        "船潛"
+        "船潛",
+        "微距攝影"
       ],
-      "updateDate": 1677427807963,
-      "userId": "6",
-      "id": 5
+      "updateDate": 1678515779206,
+      "userId": "4",
+      "id": 9
     },
     {
       "title": "四王群島豪華潛水 8 天 7 夜",
@@ -462,12 +511,12 @@
         }
       },
       "locationId": "2",
-      "features": "專業導潛 全程保險 安全安心\n私房景點 生物多樣性 盡收眼底\n\n四王島，是由四個大島米蘇爾島(Misool)、薩拉瓦蒂島(Salawati)、巴丹塔島 (Batanta)和衛吉島(Waigeo)組成。當地人稱之為「Raja Ampat」，譯為四王群島或四國群島。\n常年水溫維持在28°C-29°C，最佳時間在12月到3月之間，亞洲和大洋洲的交匯處，洋流的影響是之海底生物繁茂，被譽為「物種工廠」。\n快來跟我們一起去看一望無際的美麗珊瑚，四王群島海裡生態讓人超驚豔，擁有全世界最豐富的海中生物，能見度高達 60 米，海扇多又大，每株都像老樹一般奇形怪狀。\n尋找罕見的鬍鬚鯊和走路鯊，與魔鬼魟、鯊魚、蘇美、梭魚、海龜在海底相遇，包括1500種魚、700種軟體動物、 500種軟硬珊瑚品種等，讓我們一起去發現吧！",
-      "content": "費用包含：\n1.Sorong 機場 / 船宿公司來回接送\n2.8 天 7 夜船宿潛水行程（含三餐＋下午茶點心）共 20-22 次潛水\n3.24 小時免費供應茶水，咖啡，礦泉水及點心\n4.富邦 200 萬潛水險+實支實付醫療保險金 20 萬+緊急救護費用 10 萬（意外傷害及特定事故）以富邦條款為主＆旅遊平安險200萬，醫療 20 萬\n5.旅遊平安險 200 萬+醫療保險金 20 萬，以保險條款為主\n雙重保障 玩的放心、潛的安心\n\n費用不包含：\n1.台北至索隆四段機票\n2.護照申辦費用\n3.印尼入境簽證費用（50 萬印尼盾或 35 元美金）\n4.導潛小費（每天 10～15 元美金）\n5.第一天晚餐\n6.第九天中餐、晚餐\n7.第十天回程早餐、中餐\n8.四王群島潛水稅金（約每人 150 元美金）",
+      "features": "專業導潛 全程保險 安全安心\n私房景點 生物多樣性 盡收眼底\n四王島，是由四個大島米蘇爾島(Misool)、薩拉瓦蒂島(Salawati)、巴丹塔島 (Batanta)和衛吉島(Waigeo)組成。當地人稱之為「Raja Ampat」，譯為四王群島或四國群島。\n常年水溫維持在 28°C-29°C，最佳時間在 12 月到 3 月之間，亞洲和大洋洲的交匯處，洋流的影響是之海底生物繁茂，被譽為「物種工廠」。\n快來跟我們一起去看一望無際的美麗珊瑚，四王群島海裡生態讓人超驚豔，擁有全世界最豐富的海中生物，能見度高達 60 米，海扇多又大，每株都像老樹一般奇形怪狀。\n尋找罕見的鬍鬚鯊和走路鯊，與魔鬼魟、鯊魚、蘇美、梭魚、海龜在海底相遇，包括 1500 種魚、700 種軟體動物、 500 種軟硬珊瑚品種等，讓我們一起去發現吧！",
+      "content": "費用包含：\n1.Sorong 機場 / 船宿公司來回接送\n2.8 天 7 夜船宿潛水行程（含三餐＋下午茶點心）共 20-22 次潛水\n3.24 小時免費供應茶水，咖啡，礦泉水及點心\n4.富邦 200 萬潛水險 + 實支實付醫療保險金 20 萬 + 緊急救護費用 10 萬（意外傷害及特定事故）以富邦條款為主＆旅遊平安險200萬，醫療 20 萬\n5.旅遊平安險 200 萬 + 醫療保險金 20 萬，以保險條款為主\n雙重保障 玩的放心、潛的安心\n\n費用不包含：\n1.台北至索隆四段機票\n2.護照申辦費用\n3.印尼入境簽證費用（50 萬印尼盾或 35 元美金）\n4.導潛小費（每天 10～15 元美金）\n5.第一天晚餐\n6.第九天中餐、晚餐\n7.第十天回程早餐、中餐\n8.四王群島潛水稅金（約每人 150 元美金）",
       "startDate": "2023-04-17",
       "endDate": "2023-04-24",
-      "orderExpiryDate": "2023-03-15",
-      "maxOrderTotal": 20,
+      "orderExpiryDate": "2023-03-12",
+      "maxOrderTotal": 2,
       "cost": 155000,
       "certificateLevelId": 2,
       "cylinderTotalId": 5,
@@ -476,100 +525,9 @@
         "海外",
         "船潛"
       ],
-      "updateDate": 1677428247947,
-      "userId": "7",
-      "id": 6
-    },
-    {
-      "title": "宿霧（媽媽島）六天五夜",
-      "imgs": {
-        "img_1": {
-          "img": "https://storage.googleapis.com/vue-course-api.appspot.com/ella-diving/1677518804305.jpg?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=kiWMJGBaWq%2FqYFe5NhtPefrBXppdpaZDZ40uPyOUxvEbxRm2ztEzOX3tO%2Fjj%2Brvur0s1YvBpYY6wlCSnwGrvG4XGwK%2BOiKrXUDyi9GFJ4U8Qw6IGtzj5EHpOhkGKFnu7O8mUPsLWLH6m%2BVhg74SHkKkACG%2BSQHb0VUicVsgEXXy5a%2FwDt0TsXgCn88XmEmCZN1mlMtcn7XHdqaUx9cmho5nMjeiNRkXXjx6I1kYDZZQbqO6sBvjpDWK%2FXYJ9LZbIi8Q%2BJzojIrhB6aKGALo6HzBu3Evh1sgc0aI7mziduUSEdaSyVsy3pj1eGX6eyhJEAGyKvyc4K1OzwXNyyoMBEw%3D%3D",
-          "isMain": true
-        },
-        "img_1677428540639": {
-          "img": "https://storage.googleapis.com/vue-course-api.appspot.com/ella-diving/1677518806089.jpg?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=GbEV9utxPDqwaQFL9EcRKhn5KYYgUaChx0DA1yV8i9w9Lf0V6o%2FA5Hl7TlrDFIe0nH%2FQeO8s87iF25aS%2BjNda43fe6DPiBamOTtCpaTYl8bmYpVYrkcwTlnoEvHnKTlvhPA5FYKoTzb0IKku6nVELnppfsGsTIhOsisygdOh9zVFznlla43tlBDbOgjL4DjunP6uiMbO%2BXQ1dMAjY9wYwecaCLFD37lcEhG5A7TiqPXEQM2atmxsGoJsJBYvfqxythLixNG6lDdS7aDp9yHbYIYr%2BlKu%2BaVH59%2FPk%2F6%2BVgh7u1PKyc1XLpQk0WBKib59tHd8x%2FbFu7C4HHY%2BP5R79w%3D%3D",
-          "isMain": false
-        },
-        "img_1677428545702": {
-          "img": "https://storage.googleapis.com/vue-course-api.appspot.com/ella-diving/1677518810639.jpg?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=es8UWR2Og53E6qhGV4SN%2FaNkzC%2FbZRQiJwOvqA5GNt7pM34QKV5Ttsc%2FKicJxylBDavGsriys3EWBHijpSsrSSlUcR6oEWibKFAFIgt8%2B9n6i%2FJpHO3ZfNPSjpXXFRg%2Ft%2FXnwZA%2Br1wHwSxG6XHgBo4XFm9mXNlf%2B3raU5gQsSgU2ZQBtFYfgf7SrYRG2NQFwDsg3HF48ZH4zEOl7m9HXVcY1J2sid5Gq6Akof3C%2FKotHlo45fpsMYkoyFN0Oivge8PNrWuqoVaoc%2F9f9ChcbJvKsKcFcMKS2S16K1W6i4bPVS2KYCf2kIllb8UkYuWTQcj4f90G%2F7xfdFTIDyLSrQ%3D%3D",
-          "isMain": false
-        }
-      },
-      "locationId": "3",
-      "features": "六天五夜 共 10 潛（住沙灘渡假村）\n一晚住宿霧逛 shopping  mall\n\n第一日 \n抵達後機場接駁前往碼頭搭船\n中間短暫停留自費用餐 約下午4-5點登島入住\n\n第二日 \n上午出發船潛三次（含測潛）\n\n第三日\n上午出發船潛四次（長尾鯊或Gato)\n\n第四日\n上午出發船潛三次（討論潛點）\n\n第五日\n上午搭船出島直奔市區（約2點左右）\n\n第六日下午 17 點左右搭機\n10 潛+接駁+4 晚島上渡假村住宿\n除了鯊魚潛之外\nKalanggaman、Gato 這兩個區域會排入潛點的規劃",
-      "content": "費用含\n晚餐 4 晚、導潛、船資、一般空氣瓶、國家公園稅金、船上點心、機場接駁車、交通接駁船、潛水小費",
-      "startDate": "2023-07-15",
-      "endDate": "2023-07-20",
-      "orderExpiryDate": "2023-05-31",
-      "maxOrderTotal": 8,
-      "cost": 19999,
-      "certificateLevelId": 2,
-      "cylinderTotalId": 3,
-      "isNitrox": 0,
-      "tags": [
-        "海外",
-        "船潛"
-      ],
-      "updateDate": 1677428558208,
-      "userId": "1",
-      "id": 7
-    },
-    {
-      "title": "澎湖 南方四島自揪團",
-      "imgs": {
-        "img_1": {
-          "img": "https://storage.googleapis.com/vue-course-api.appspot.com/ella-diving/1677518891091.jpg?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=h3hrSXdwxmpNJAifSP%2BOCthI0T35SuQ1TgWUhRzP85zqTP1%2BoaeUb6X043qvbtvJHxiod7tn5HVXy5xfOD873YoWRDKXBJMigHUssNCuTgrBFXNAC%2BXR2slAIrqdLq54wUhNDdQCoioh2cAkgPXSJs3LmyB6x5fAM1lu4Q4kM89iSNuw7sEKpI5%2BKntXMJak9pnPY88KgLNgKi2Fe%2BiKZpUw1lpwjtKszNdo%2BWUbgshiGoM39yGeqbVh7yvmM56ksW5gzhn6E%2FclqI5IHiviOe9YtPF4fk2TewnJH38kD%2BlMdXc1NGSDlhgf3rgseg6NKTBMY9bEPSb7B362kJFt4g%3D%3D",
-          "isMain": true
-        },
-        "img_1677428810917": {
-          "img": "https://storage.googleapis.com/vue-course-api.appspot.com/ella-diving/1677518901947.jpg?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=eieW18OHCMD5SHVoMdEI1yO6eZzpjVvaopLcOwcXffmFV3aMw4qt88B0oWkB6Pl6X4SMTKl8u5gvC1c0qNtDX%2ByIy3M3HmsqfZ%2BVRxGIR2pFFOmAsZFTZPbHEbz3F6ieuwTg7AArqOi1ZL3ix4xvIO4Wpd3QFvCIKCmP9aW9TQQScWSqW6eECsY44uWXtl7Bzc5M9ej42U9p0ldjIifc%2B4WgsWH7g40PkD7AeDVyhSOL9loWz7tFFB42LE19lt8f5knojAdeqG2UB5F6wBEUGuSvwp%2FQg6K%2BV0evTox3sM7ySLdYz%2Fyhoeo3%2BWyq7LKSK1NRzkf6iE8BKSjRajDDfQ%3D%3D",
-          "isMain": false
-        }
-      },
-      "locationId": "4",
-      "features": "06/24（三）澎湖本島陸上一日遊\n06/25（四）薰衣草森林浮潛 + 南方四島船潛 3 支\n06/26（五）南方四島高階潛點，船潛 3 支\n06/27（六）視體力加潛，下午回馬公本島遊玩\n06/28（日）下午班機返回台灣",
-      "content": "費用包含：潛水船費、小費、氣瓶、導潛，東吉住宿 2 日，澎湖本島住宿 2 日，本島機車 2 日（2人1台），保險（潛水險+旅平險）\n\n費用不含：\n餐食及個人開銷\n到澎湖交通費用（可協助代訂）",
-      "startDate": "2023-06-24",
-      "endDate": "2023-06-28",
-      "orderExpiryDate": "2023-05-01",
-      "maxOrderTotal": 2,
-      "cost": 7593,
-      "certificateLevelId": 2,
-      "cylinderTotalId": 6,
-      "isNitrox": 0,
-      "tags": [
-        "船潛"
-      ],
-      "updateDate": 1677428820245,
-      "userId": "3",
-      "id": 8
-    },
-    {
-      "title": "澎湖南方四島水肺潛水團",
-      "imgs": {
-        "img_1": {
-          "img": "https://storage.googleapis.com/vue-course-api.appspot.com/ella-diving/1677518980547.jpg?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=SYZL9N74Hg3F2SSbLNFvinIG5f9T%2BFcaLy8mQZB5nab99suhM8c1eJnf7gjywl%2FWgJ0cxuysQbVzkq4S551PFDR11kSi00iC2U4ht4QrmhtO6djHPjY%2FR5blXxdsz0k6S9zLnyGZlL%2FLRJtGE95nec6uZHhQ%2F4CSrb7rQ6RZQFs9GFH2SPhdD5U8m8ybJcWzHJQ8lbBFVaucyWC3ftYUAmZ3QB2s5msFt9NT816znbgNmmmBMdUY7AavmGxGoNaYTfnw1OYiPUnJm8BJfPbXkIy7mkeQ7%2FJVWy%2Br7CxqM66KTlgn%2Fe6fpj2yGqI5e5Y0VCqQwtGlwcBLgWOajb%2F7xQ%3D%3D",
-          "isMain": true
-        }
-      },
-      "locationId": "4",
-      "features": "1",
-      "content": "第一日: \n(早餐自理)\n早上9:00在興港南街碼頭集合到將軍島 ,\n(9點出發才不會影響潛水行程,延誤請務必告知)\n10:00到將軍入住+午餐 ,\n下午船潛兩支，住宿將軍\n\n第二日: \n(早餐06:30集合)06:30出發早餐就6點\n約6:30-8點出發, 出發時間依當天潮汐時間\n南方四島船潛三支，晚上住宿將軍\n\n第三日:\n (早餐06:30集合)06:30出發早餐就6點\n約6:30-8點出發, 出發時間依當天潮汐時間\n南方四島船潛三支，晚上住宿將軍\n\n第四日:\n (早餐06:30集合)\n早上07:00-08:00專船返回馬公",
-      "startDate": "2023-04-16",
-      "endDate": "2023-04-19",
-      "orderExpiryDate": "2023-03-31",
-      "maxOrderTotal": 2,
-      "cost": 6500,
-      "certificateLevelId": 1,
-      "cylinderTotalId": 1,
-      "isNitrox": 0,
-      "tags": [
-        "船潛"
-      ],
-      "updateDate": 1677428996887,
-      "userId": "1",
-      "id": 9
+      "updateDate": 1678516392494,
+      "userId": "5",
+      "id": 11
     },
     {
       "title": "澎湖潛水團",
@@ -581,7 +539,7 @@
       },
       "locationId": "4",
       "features": "",
-      "content": "3天船潛(每天馬公-南方四島)\n9支船潛(1天3支)\n氣瓶費\n\n#費用不包含：\n機票、住宿、餐費\n中、晚餐全部統一購買在列總明細分攤\n(若要自行安排餐點也可以)\n個人潛水險（可一併處理）\n\n#行程規劃\n8/26上午碼頭集合 裝備上船出海\n南方四島國家公園3支(潛點視當天海況)\n8/27 上午碼頭集合\n南方四島國家公園3支(潛點視當天海況)\n8/28 上午碼頭集合\n南方四島國家公園3支(潛點視當天海況)\n南方四島潛水地點會有：東西吉廊道、水族館、東吉之狼、西吉斷層、城堡、東吉沈城、東嶼坪、沈船…視流水天氣決定。",
+      "content": "南方四島潛水地點會有3 天船潛(每天馬公-南方四島)9 支船潛(1 天 3 支)氣瓶費\n\n費用不包含：\n機票、住宿、餐費\n中、晚餐全部統一購買在列總明細分攤(若要自行安排餐點也可以)\n個人潛水險(可一併處理)\n\n行程規劃\n8/26 上午碼頭集合 裝備上船出海\n南方四島國家公園 3 支(潛點視當天海況)\n\n8/27 上午碼頭集合\n南方四島國家公園3支(潛點視當天海況)\n\n8/28 上午碼頭集合\n南方四島國家公園 3 支(潛點視當天海況)：東西吉廊道、水族館、東吉之狼、西吉斷層、城堡、東吉沈城、東嶼坪、沈船…視流水天氣決定。",
       "startDate": "2023-08-26",
       "endDate": "2023-08-28",
       "orderExpiryDate": "2023-07-30",
@@ -591,44 +549,40 @@
       "cylinderTotalId": 5,
       "isNitrox": 0,
       "tags": [
+        "岸潛",
         "船潛"
       ],
-      "updateDate": 1677429211879,
-      "userId": "1",
-      "id": 10
+      "updateDate": 1678516647064,
+      "userId": "5",
+      "id": 12
     },
     {
-      "title": "端午四連休、蘭嶼免請假",
+      "title": "帛琉 5D4N",
       "imgs": {
-        "img_1677460100430": {
-          "img": "https://storage.googleapis.com/vue-course-api.appspot.com/ella-diving/1677519302109.jpg?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=FkRzOw1n55qL5ed49L1KfnP0xcZ%2Bpv%2B55mWnyyNAOqe6z%2BShMGro5J3PPzBYizRtoEJw1zdNFKH9FRfxG358ahAbbLYK0tZaQnmzMfZcdxgadOODdtAr5il%2Fifi2tXY0vdeK20zTmETwFCVpDQV7gFRQ8t%2FvoELlFS66oyaOADDuJbr0uNbFMRc3bcWsfWttfjVGjSx4AJ%2F1h8%2BwrnbY%2BZ%2FCjbWu16%2BidcrO1tuPVPnWBhdTqx9hHpHEuT4C6zqMa0dKOZnuWxhV1PhL0qVzPkVhUYp%2BM3n6Endizmci0cA6QnWoMW8pyjmGoqOrPvqnx74wi%2B8LmykrlCkRTtmkWA%3D%3D",
+        "img_1": {
+          "img": "https://storage.googleapis.com/vue-course-api.appspot.com/ella-diving/1677854614446.jpg?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=NK61BD6dA1qO6L%2FnJc97f8OVbDEnbwbQl7VoCXQ8QmcVhPPVetP8sjTHqC%2B4x8JmgI%2BSpCho5jkGFhFfjVfo0JrZ7VBSfqMRhp3fra%2FCRr5dnb6Rld36OP9ertVhlpgX731%2FWGWfE9077L4fckq8jOE%2BACbv8%2F%2FBHSjgtBNPwqZf7e12SbMZrb9lyedyo6PM%2FXO7AVR2lVp3tJkuirDoeIgghXmdZ9iFZcwF%2FEb9dLYYwMAFR7ACygFZNsCbnnJFRcvNbVsz8v4i%2Frd6XBiTHxAIpITo1mVvBFDYPiHAxKSoYhPGPEPz%2BRHsQGrJCmSajCsMSG3D6cMsvb07sKBVEQ%3D%3D",
           "isMain": true
-        },
-        "img_1677460128050": {
-          "img": "https://storage.googleapis.com/vue-course-api.appspot.com/ella-diving/1677519303937.jpg?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=T9OyDfQjnxDypz9ETkZO1GYRRG2onIlCCAsPptt4%2Fuz2pCrOye4Q7bQe9GAqL41QTztc1rx0SsSx%2BpCDkuFnq1IJCz94IdcHH0YI43m4%2Bjw51N3jJvPyiSb8CVa7ro6vvKgw3xvD4h6hk5sfLby7zzOj%2F6BDv68tSo8fubepivsEdkjzX8B26OKw2OBv0LSEqo%2Bc8rjdjWfXA3%2BtqDv8j7V9ZwP62FxI8ebHj8ygAEK3yVbvHrmLRx5Kpqfw05ekKFBxOevYe6FS4rkAKjAM84xhyKM8P%2BT7u2a0riTEu9P7iGK2ZQkgk7Xs%2BUT9KviZjyENwLA6Sj7Ug0cXTQQLfQ%3D%3D",
-          "isMain": false
         }
       },
-      "locationId": "5",
+      "locationId": "8",
       "features": "",
-      "content": "費用包含：\n台東-蘭嶼 船票\n3 晚海景背包床位（包層）\n4 趟船潛（8 支 、八代灣使用高氧 ）\n1 趟岸潛（1 隻）\n機車（2 人 1 台）\n第一天：晚餐（合菜）\n第二天：午餐便當\n第三天：午餐便當 ； 晚餐 BBQ\n300 萬旅遊平安險 + 20 萬醫療險\n\n費用不含：\n個人裝備（可租用）、酒水\n每日早餐\n第二天晚餐、第四天午餐\n各地到富岡的交通\n\n6/22  台東 - 蘭嶼  金星 8 號 12：45\n6/25  蘭嶼 - 台東  金星 8 號 15：15\n\n#參考行程：\n6/22\n12:20 富岡碼頭集合\n16:00 岸潛 x1\n\n6/23\n08:00 船潛 x2\n12:00 放飯\n13:00 船潛 x2\n\n6/24\n08:00 船潛 x2\n12:00 放飯\n13:00 船潛 x2\n6/25\n全日自由活動\n11：00退房\n\n** 可選 10：15 或 15：15 返台**\n** 以上船班爲暫定，以船公司公布為主**",
-      "startDate": "2023-06-22",
-      "endDate": "2023-06-25",
-      "orderExpiryDate": "2023-04-30",
-      "maxOrderTotal": 5,
-      "cost": 12099,
+      "content": "Day 1：\n時間 台北飛，落地帛琉→車子接到飯店→晚餐，感受在地風光\n\nDay 2-4  九潛  貝里琉、玻璃城(Check dive 看 Manta)、烏龍水道(放流)、細亞斯角(流鉤)、藍洞、藍角(流鉤)、德國水道(Manta)、二戰沈船、新斷層(流鉤)、Barmum wall（峭壁潛、西亞斯隧道、鐘乳石洞、二戰小飛機、牛奶湖\n\nDay 5：帛琉大島行，晚上回到甜蜜的家\n\n＊ 上述行程只是暫定，會依造當天氣候、海況、團員程度等做調整。\n飛機加酒店另外算 確定疫情 0+7 會跟旅行社溝通 盡量幫大家省錢\n\n包含：\n9 次潛水\n抵達帛琉後的早 午 晚餐\n出海稅\n每日小費\n機場來回接駁車\n龍頭鸚哥交配 費用\n貝里琉 稅金 費用",
+      "startDate": "2023-11-19",
+      "endDate": "2023-11-23",
+      "orderExpiryDate": "2023-09-02",
+      "maxOrderTotal": 12,
+      "cost": 63000,
       "certificateLevelId": 2,
-      "cylinderTotalId": 5,
+      "cylinderTotalId": 6,
       "isNitrox": 1,
       "tags": [
-        "假日團",
-        "蘭嶼",
+        "沉船",
         "船潛",
-        "岸潛"
+        "海外"
       ],
-      "updateDate": 1677460138548,
-      "userId": "2",
-      "id": 11
+      "updateDate": 1678516961932,
+      "userId": "5",
+      "id": 14
     },
     {
       "title": "蘭嶼潛好潛滿團",
@@ -644,87 +598,24 @@
       },
       "locationId": "5",
       "features": "",
-      "content": "2 岸潛 8 船潛\n蘭嶼六人房費用平分4晚\n機車 2 人/台\n到蘭嶼來回船票（可選擇從富岡或後壁湖出發）\n\n費用不包含：\n餐費\n個人潛水險（可一併處理）\n臨時討論再加潛或者去小蘭嶼的額外費用\n裝備租賃費用\n\n希望有一定的支數，能自己照顧自己，有高氧證照",
+      "content": "2 岸潛 8 船潛\n蘭嶼六人房費用平分4晚\n機車 2 人/台\n到蘭嶼來回船票（可選擇從富岡或後壁湖出發）\n\n費用不包含：\n餐費\n個人潛水險（可一併處理）\n臨時討論再加潛或者去小蘭嶼的額外費用\n裝備租賃費用",
       "startDate": "2023-06-19",
       "endDate": "2023-06-23",
-      "orderExpiryDate": "2023-05-31",
+      "orderExpiryDate": "2023-05-15",
       "maxOrderTotal": 2,
       "cost": 13999,
       "certificateLevelId": 2,
-      "cylinderTotalId": "",
+      "cylinderTotalId": 4,
       "isNitrox": 1,
       "tags": [
-        "平日團",
-        "蘭嶼",
         "岸潛",
-        "船潛"
-      ],
-      "updateDate": 1677460660966,
-      "userId": "3",
-      "id": 12
-    },
-    {
-      "title": "帛琉(缺資料)",
-      "imgs": {
-        "img_1": {
-          "img": "https://storage.googleapis.com/vue-course-api.appspot.com/ella-diving/1677519500525.jpg?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=DFZrnylb5e%2Bah1%2BGOK4DzZKM%2BVQIWzASFhMiMAAikaMnVCGLf85IEPoIhIcFa16nQAJbgCNUO8QcFY2pPIhVEw1RuDxlPlj%2BlYMEefVhJSs6ujVrpfihNZB5lsOsabXOciUxdfKDILyiHTuXYNUG9iFV6lQxy9NTZywzCIbBWifENfdIFolHvOlmln7JvvhmIorq%2FjhusYQuas5Ao0kr88wufNZ9i5Fp2PPUzUrHVRFGqaTHW4wqOCZUu5WduE8Hcq8aMuJrMLjr6u8A2tnE5CdswI2d0URdPWbF88AcGlhdACItmyC4VcZ%2BRSztB5ZkMa6zd19NDVpivWnRym3aMA%3D%3D",
-          "isMain": false
-        },
-        "img_1677460643142": {
-          "img": "https://storage.googleapis.com/vue-course-api.appspot.com/ella-diving/1677519514571.jpg?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=KTTkRcpI1TjxaoIVxB8y7r46WJ6luNChWeoagb9PKpTObaqto1l%2Bhr9Jzy73Uz7PnFa9Hy4I8FZCobnNsihOc3JRnAT60vbJwfdBIFPBk5mX69p3bpGJ%2B1sOg4tZB16%2B6Ynfa40p9lvZd48QPXvz1u%2FWfXmxgKlAcBR5YLnBA2CiDHFNWPbZZHJiE4DyVlOC9coL2g04RGirXv%2Fu3dy%2BaWicM34ZRz6eFKQ82C6JMkYAt5bgTcRYZMi3IEPSRzatTkm7vXZTfUhB%2BczPRh6cIxdm9kSpDoxrx%2BWIuQnA9ejGQbjPjNUvPuNDmDwDFtfoY5O0K9VXvY6p5T0BsjLeDQ%3D%3D",
-          "isMain": true
-        }
-      },
-      "locationId": "8",
-      "features": "1",
-      "content": "2",
-      "startDate": "2023-03-03",
-      "endDate": "2023-03-11",
-      "orderExpiryDate": "2023-02-27",
-      "maxOrderTotal": 1,
-      "cost": 1,
-      "certificateLevelId": 2,
-      "cylinderTotalId": "",
-      "isNitrox": 1,
-      "tags": [
-        "船潛"
-      ],
-      "updateDate": 1677460660966,
-      "userId": "3",
-      "id": 13
-    },
-    {
-      "title": "蘭嶼八代灣 6 支船潛",
-      "imgs": {
-        "img_1": {
-          "img": "https://storage.googleapis.com/vue-course-api.appspot.com/ella-diving/1677519696731.jpg?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=cZEqathFnni3AbGOa90at4kszM1S5Pg%2Fpuhxx7v4q2JletejF3PDlKzNJbrv%2FPIWbwWivfZZj5mvnoezVF1mbl6c03HwLAiI%2B7iUpkavSaeIvqJAlDwOFLVVU8ihDfmrmi%2FFEcWws87qmXPG%2F1f5AGfo94enynky3uLvObk5r1pKGvDxXG633cIhOWcgV463pGtBnzca%2FWLl5TFMNB0sKqAt0E6H7Vi1fxCFcpwc%2FvpKfwHsEBIrmNEcCqdi67aA2ZnpQ2DbH4YIgdCD2vxbKY2%2Bl2wdRzKIdvP4arnv21ZmJFLQrgQfp6Hs67646nV01dyFg%2FB6S%2Fm3cipiOGqgeQ%3D%3D",
-          "isMain": true
-        },
-        "img_1677461531976": {
-          "img": "https://storage.googleapis.com/vue-course-api.appspot.com/ella-diving/1677519699776.jpg?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=iA5ZsD0ILvfOzTNaofR7HI7IlDNKGmnZufC7%2FZ1pB7dIBcWKXZmRMBXXgau5ITK7%2B%2BTwR3K8YhCHCoIhQ1YoWEaS0vCepygWJbIZHf%2BEfBZWC3nr2RCZqn8V%2FClW7HXQQImMFKgDtgf53Wyy9%2B9zuaHHfuKYXgYOhuBxn0uZNSkpp0Ni%2B%2FHJ%2BcwFdPjoPBFAYXH4I%2BujuRpR6VUQtZcxYiESHoYrjPjv3lV1R3OK5HQIzzAy7eFeDDjBxqbwHT4NsiTPCFn7MwVHdaqPVkjgrlD8jePMd2S%2FrW6kQIGPEeHDQfjvYMzwxqOsA0mlYZql6DsDNFThY%2Fq4i7CoX%2FJJqQ%3D%3D",
-          "isMain": false
-        }
-      },
-      "locationId": "5",
-      "features": "",
-      "content": "費用包含：\n船潛 6 支(全程高氧)\n住宿\n機車(2 人共乘)\n國泰潛水險 + 旅平險\n水攝跟拍\n富岡-蘭嶼來回船票\n\n不包含項目：\n個人餐食(可一起討論吃啥)\n裝備租借費用",
-      "startDate": "2023-09-22",
-      "endDate": "2023-09-25",
-      "orderExpiryDate": "2023-08-01",
-      "maxOrderTotal": 3,
-      "cost": 12999,
-      "certificateLevelId": 2,
-      "cylinderTotalId": "",
-      "isNitrox": 1,
-      "tags": [
         "船潛",
-        "沉船",
-        "假日團",
-        "蘭嶼"
+        "蘭嶼",
+        "平日團"
       ],
-      "updateDate": 1677462138091,
-      "userId": "3",
-      "id": 14
+      "updateDate": 1678517213610,
+      "userId": "6",
+      "id": 15
     },
     {
       "title": "4 天 3 夜綠島\"平日\"團",
@@ -736,14 +627,14 @@
       },
       "locationId": "1",
       "features": "平日團時間較彈性、可選擇想潛的時間 多退少補",
-      "content": "02/28 ~ 03/03\n02/28 早上登島、下午岸潛 2 支\n03/01 早上船潛 2 支、下午岸潛 2 支(可夜潛)\n03/02 早上船潛 2 支、下午岸潛 2 支\n03/03 陸遊與自由活動，再會綠島\n\n費用包含：\n來回船票\n個人背包房住宿\n機車(2 人一部)\n船潛/岸潛費用\n保險、貨車租借、水攝\n\n費用不含：\n個人潛水輕重裝備、潛水電腦錶及含酒精飲料\n如需租借潛水裝備:輕裝+重裝 NT1000/天\n(預定行程時一起告知,好事先準備)。\n\n備註：\n1.潛水活動時，請避免喝酒。\n2.暈船體質請自備暈船藥。\n3.因潛水安全必要裝備為浮力袋、手電筒、潛水電腦錶。\n4.預計潛點會因為實際海況與成員程度改變\n5.想參加夜潛請準備2支手電筒(租借 1 支 100)",
-      "startDate": "2023-02-28",
-      "endDate": "2023-03-03",
-      "orderExpiryDate": "2023-01-15",
+      "content": "02/28 早上登島、下午岸潛 2 支\n03/01 早上船潛 2 支、下午岸潛 2 支(可夜潛)\n03/02 早上船潛 2 支、下午岸潛 2 支\n03/03 陸遊與自由活動，再會綠島\n\n費用包含：\n來回船票\n個人背包房住宿\n機車(2 人一部)\n船潛 / 岸潛費用\n保險、貨車租借、水攝\n\n費用不含：\n個人潛水輕重裝備、潛水電腦錶及含酒精飲料\n如需租借潛水裝備：輕裝 + 重裝 NT1000 / 天\n(預定行程時一起告知，好事先準備)。\n\n備註：\n1.潛水活動時，請避免喝酒。\n2.暈船體質請自備暈船藥。\n3.因潛水安全必要裝備為浮力袋、手電筒、潛水電腦錶。\n4.預計潛點會因為實際海況與成員程度改變\n5.想參加夜潛請準備2支手電筒(租借 1 支 100)",
+      "startDate": "2023-03-16",
+      "endDate": "2023-03-25",
+      "orderExpiryDate": "2023-03-13",
       "maxOrderTotal": 3,
       "cost": 14500,
       "certificateLevelId": 1,
-      "cylinderTotalId": "20+",
+      "cylinderTotalId": 3,
       "isNitrox": 0,
       "tags": [
         "岸潛",
@@ -752,330 +643,136 @@
         "綠島",
         "平日團"
       ],
-      "updateDate": 1677461865115,
-      "userId": "3",
-      "id": 15
-    },
-    {
-      "title": "假資料3",
-      "imgs": {
-        "img_1": {
-          "img": "https://storage.googleapis.com/vue-course-api.appspot.com/ella-diving/1677519761879.jpg?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=X1s9%2BNJfOFkiQN3Fie6xNXN7yyjglJsBInnpyJ8hkla7erZeWTlaFdM9%2FfwPqv%2B1RtSbsNIrFP2x0msOOn4Z%2BqYZcEyoPyI%2BsAIcmlp0PcBdk5%2B5tmDUPwwFVBucYR%2FrBO%2Fwc3tRH9K6sjlXrFqTNoot%2FWkimZa7tslZUYBwzP1fVllv7x9FrvFJa%2Fk7rn8p8BI6K1t91pa3PyV%2BFa%2FUwshOtnGTa5PjpflyoLsr6sOFj1K2G8a%2Bog7T5p4ZmFZJv6YJpJ6nQRYELbMJxfB5SzI%2B3dr7%2BDxqTNrz7RhgOn0ElQpc5mOluVlWSu8V5vueNZ9O%2FY0L6gRHrOa8wRZYRg%3D%3D",
-          "isMain": true
-        }
-      },
-      "locationId": "2",
-      "features": "1",
-      "content": "2",
-      "startDate": "2023-03-05",
-      "endDate": "2023-03-05",
-      "orderExpiryDate": "2023-03-01",
-      "maxOrderTotal": 1,
-      "cost": 1,
-      "certificateLevelId": 2,
-      "cylinderTotalId": "",
-      "isNitrox": 1,
-      "tags": [
-        "船潛"
-      ],
-      "updateDate": 1677460660966,
-      "userId": "3",
-      "id": 16
-    },
-    {
-      "title": "中秋綠島 3 天 2 夜潛旅",
-      "imgs": {
-        "img_1": {
-          "img": "https://storage.googleapis.com/vue-course-api.appspot.com/ella-diving/1677853446738.jpg?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=pxkSdJGRI8uPbvrt3OkfyoWsbOtwlhuamUyzM51BIgcK1ZQ%2BpYwejAL2RPq7kxTDZ3r0GycTOoeQciyEMTJVZX0sgO9%2F0Z3TfiPMSs9Vz3lxrDVj%2Bf3d43rPz57JuMugtDe0t7EIUNpnUGoFlgsBH2%2BA9NQ8ffoSTa2PnyU4%2FvBE73%2FqSblyXGB15njRsn%2BlWcn0bseWgKj2UkstScctX2SYerW6krFeyRBo%2BPFSH1YPDUvSGMni5GCGvKScbGc6pI8yklpFjFCZ%2Bt1W4unVg%2BQfR1eAbhNW%2BkdlrJWq47czWy0V4YMdBZATWu05%2FZ08Rzj7ImCxdfNMIC5UoQ2PSQ%3D%3D",
-          "isMain": true
-        }
-      },
-      "locationId": "1",
-      "features": "綠島中性浮力練習團\n暖暖的夏季末～代表著潛季即將結束囉！\n趕快來揪團綠島潛水、探索離島之美吧！\n如果有許久未潛或熱愛 潛水的朋友\n也歡迎揪團一起報名！",
-      "content": "第一天 9/9(五) \n台北出發的朋友可搭乘太魯閣 402 號列車前往台東\n早上 06:13 台北火車站發車  預計 10:09 左右抵達台東車站\n台東車站搭計程車至富岡漁港（自行處理）\n當日 9/9 號(warning)早上 11:00 前往富岡漁港集合[務必準時]\n搭乘 11:30 台東往綠島船班\n預計 12:20 抵達綠島\n前往潛店放置行李裝備等，安頓住宿\n預計 14:00 岸潛一支(空氣)   \n住宿：微風潛水渡假村 4 人房\n\n第二天 9/10(六)\n早餐：70 元早餐卷(潛店住宿才供早餐)\n早上船潛一趟兩支氣瓶(空氣)\n下午岸潛兩支氣瓶(空氣)\n住宿：微風潛水渡假村 4 人房\n\n第三天 9/11(日)\n早餐：70 元早餐卷(潛店住宿才供早餐)\n搭乘自強號 441 號班次下午 17:47 預計抵達台北時間 21:32，回到溫暖的家",
-      "startDate": "2022-09-09",
-      "endDate": "2022-09-11",
-      "orderExpiryDate": "2022-08-01",
-      "maxOrderTotal": 6,
-      "cost": 7890,
-      "certificateLevelId": 1,
-      "cylinderTotalId": "",
-      "isNitrox": 0,
-      "tags": [
-        "新手練功團",
-        "岸潛",
-        "船潛",
-        "綠島",
-        "假日團"
-      ],
-      "updateDate": 1677853417636,
-      "userId": "3",
-      "id": 17
-    },
-    {
-      "title": "東北角平日免費潛導服務(含潛水技術指導加強)",
-      "imgs": {
-        "img_1": {
-          "img": "https://storage.googleapis.com/vue-course-api.appspot.com/ella-diving/1677854069341.jpg?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=f2rygcBEEK1kVPurwzKzcrJEbHxlXSYijDwBTTbvFB28P2JKpUF1lwltkaNkSf%2BJvvOMCx82TNQzZ4KSYdGldmRCH5xPJEoW9uTKIpCoC4di5bTu8ZyrbkqleFN1%2BedaLB3VGIUZYiNQP3nHM7qlnKvXdkypYc6%2BFha56jIJWt6JBxM06vFHBzEAWMFcIPjO9jSg3QLZezwOc87wE2srftICyP5G6VWg%2BjEruwk0ft9V5qO8pGwf9aJM9qj0LDa9uXlJpzcR4%2B1yRn7ScXAHYDT20U2JCQBNCdRpqGQFI7VNFZsfCFvA2eZ48ODNzJxg7Kw%2FJxcM0S%2BsYIjLsGGGRw%3D%3D",
-          "isMain": true
-        }
-      },
-      "locationId": "9",
-      "features": "僅需氣瓶費用\n無裝備者可以提供租借\n免費指導：潛水技巧指導　中性浮力加強\n放流潛水技巧  水平姿勢 蛙踢技巧\n過度耗氣矯正　蛙鞋踢法矯正　指北針導航加強\n潛水錶使用教學 \n無交通工具可以共乘前往　需負擔部分油資",
-      "content": "潛點：潮境公園、祕密花園、花園第二點、鶯歌石、深奧、82.8、83\n(依浪況 流況決定)\n\n集合時間８：００",
-      "startDate": "2022-07-11",
-      "endDate": "2022-07-11",
-      "orderExpiryDate": "2022-07-01",
-      "maxOrderTotal": 3,
-      "cost": 0,
-      "certificateLevelId": 1,
-      "cylinderTotalId": "",
-      "isNitrox": 0,
-      "tags": [
-        "新手練功團",
-        "岸潛",
-        "平日團"
-      ],
-      "updateDate": 1677853942286,
-      "userId": "4",
-      "id": 18
-    },
-    {
-      "title": "帛琉 5D4N",
-      "imgs": {
-        "img_1": {
-          "img": "https://storage.googleapis.com/vue-course-api.appspot.com/ella-diving/1677854614446.jpg?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=NK61BD6dA1qO6L%2FnJc97f8OVbDEnbwbQl7VoCXQ8QmcVhPPVetP8sjTHqC%2B4x8JmgI%2BSpCho5jkGFhFfjVfo0JrZ7VBSfqMRhp3fra%2FCRr5dnb6Rld36OP9ertVhlpgX731%2FWGWfE9077L4fckq8jOE%2BACbv8%2F%2FBHSjgtBNPwqZf7e12SbMZrb9lyedyo6PM%2FXO7AVR2lVp3tJkuirDoeIgghXmdZ9iFZcwF%2FEb9dLYYwMAFR7ACygFZNsCbnnJFRcvNbVsz8v4i%2Frd6XBiTHxAIpITo1mVvBFDYPiHAxKSoYhPGPEPz%2BRHsQGrJCmSajCsMSG3D6cMsvb07sKBVEQ%3D%3D",
-          "isMain": true
-        }
-      },
-      "locationId": "8",
-      "features": "",
-      "content": "Day 1：時間 台北飛，落地帛琉→車子接到飯店→晚餐，感受在地風光\nDay 2-4  九潛  貝里琉、玻璃城(Check dive 看 Manta)、烏龍水道(放流)、細亞斯角(流鉤)、藍洞、藍角(流鉤)、德國水道(Manta)、二戰沈船、新斷層(流鉤)、Barmum wall（峭壁潛、西亞斯隧道、鐘乳石洞、二戰小飛機、牛奶湖\nDay 5：帛琉大島行，晚上回到甜蜜的家\n\n＊ 上述行程只是暫定，會依造當天氣候、海況、團員程度等做調整。\n飛機加酒店另外算 確定疫情 0+7 會跟旅行社溝通 盡量幫大家省錢\n\n包含：\n9 次潛水\n抵達帛琉後的早 午 晚餐\n出海稅\n每日小費\n機場來回接駁車\n龍頭鸚哥交配 費用\n貝里琉 稅金 費用",
-      "startDate": "2022-11-19",
-      "endDate": "2022-11-23",
-      "orderExpiryDate": "2022-09-02",
-      "maxOrderTotal": 12,
-      "cost": 63000,
-      "certificateLevelId": 2,
-      "cylinderTotalId": 6,
-      "isNitrox": 1,
-      "tags": [
-        "沉船",
-        "船潛",
-        "海外"
-      ],
-      "updateDate": 1677854584720,
+      "updateDate": 1678525248531,
       "userId": "6",
-      "id": 19
+      "id": 16
     }
   ],
-  "violations": [
-    {
-      "id": 1,
-      "creationDate": 1677460660966,
-      "reason": "內容不符",
-      "userId": 1,
-      "activityId": 160
-    },
-    {
-      "id": 2,
-      "creationDate": 1677460660966,
-      "reason": "內容不符",
-      "userId": 1,
-      "activityId": 15
-    }
-  ],
+  "violations": [],
   "orders": [
     {
-      "activityId": 11,
-      "creationDate": 1678007650918,
-      "userId": "4",
+      "activityId": 15,
+      "updateDate": 1678523684141,
+      "isDelete": 0,
+      "userId": "1",
       "id": 1
     },
     {
-      "activityId": 1,
-      "creationDate": 1678007766963,
-      "userId": "5",
+      "activityId": 7,
+      "updateDate": 1678523952672,
+      "isDelete": 0,
+      "userId": "1",
       "id": 2
     },
     {
-      "activityId": 3,
-      "creationDate": 1678007785966,
-      "userId": "2",
+      "activityId": 9,
+      "updateDate": 1678523613956,
+      "isDelete": 0,
+      "userId": "1",
       "id": 3
     },
     {
-      "activityId": 3,
-      "creationDate": 1678011315118,
-      "userId": "6",
-      "id": 4
-    },
-    {
-      "activityId": 9,
-      "creationDate": 1678019209695,
-      "userId": "5",
+      "updateDate": 1678524486957,
+      "isDelete": 0,
+      "activityId": 1,
+      "userId": "4",
       "id": 5
     },
     {
-      "activityId": 3,
-      "creationDate": 1678112195181,
-      "userId": "3",
+      "updateDate": 1678524726358,
+      "isDelete": 0,
+      "activityId": 8,
+      "userId": "6",
       "id": 6
     },
     {
-      "activityId": 8,
-      "creationDate": 1678113502983,
-      "userId": "5",
+      "updateDate": 1678524734421,
+      "isDelete": 0,
+      "activityId": 7,
+      "userId": "6",
       "id": 7
-    },
-    {
-      "activityId": 12,
-      "creationDate": 1678189485371,
-      "userId": "1",
-      "id": 8
-    },
-    {
-      "activityId": 14,
-      "creationDate": 1678280906745,
-      "userId": "5",
-      "id": 9
-    },
-    {
-      "activityId": 17,
-      "creationDate": 1659701064000,
-      "userId": "1",
-      "id": 10
     }
   ],
-  "comments": [
-    {
-      "id": 1,
-      "activityId": 17,
-      "userId": 1,
-      "creationDate": 1663028767000,
-      "score": 4.2,
-      "content": "考完 OW 第一次跟團潛水，第一潛下去的時候，好緊張，還好同團的潛友都很 nice 的指導我技巧，消除擔憂的心。愛潛水很活潑也很會帶動氣氛，讓大家第一次見面就玩得得很開心，下次會再報名愛潛水的團。"
-    },
-    {
-      "id": 2,
-      "activityId": 17,
-      "userId": 5,
-      "creationDate": 1663424634000,
-      "score": 3.5,
-      "content": "看了一堆海龜和小丑魚（其實是我只認識這兩個生物，其他的只能說看起來很好吃）\n主揪很好相處的人，有任何問題都可以隨便問，也非常好聊，也很認真幫大家拍美美的照片。"
-    },
-    {
-      "id": 3,
-      "activityId": 19,
-      "userId": 3,
-      "creationDate": 1669562603000,
-      "score": 3.7,
-      "content": "帛琉的海底世界真得是很美！如果喜歡海底世界的人，真得是一生必去一次的地方。在要出發前，我一直懷著忐忑不安的心，踏上了帛琉之旅，很慶幸同行的潛伴，很幽默，也很搞笑，讓我們這趟旅程充滿歡樂與驚喜。下次再一起潛旅~~"
-    },
-    {
-      "id": 4,
-      "activityId": 18,
-      "userId": 2,
-      "creationDate": 1657781534000,
-      "score": 4.8,
-      "content": "感謝主揪提供免費的潛水指導，教了我許多潛水技巧，我的中性浮力變得更加穩定，水中耗氧的問題也改善了許多，這麼佛心的主揪，肯定要來推一下。"
-    },
-    {
-      "id": 5,
-      "activityId": 17,
-      "userId": 2,
-      "creationDate": 1663485877000,
-      "score": 4,
-      "content": "找到可愛的漂亮的各種小生物讓我大開眼界，一趟充滿驚喜與歡笑的潛旅。感謝主揪，下次再一起出遊。"
-    },
-    {
-      "id": 6,
-      "activityId": 17,
-      "userId": 5,
-      "creationDate": 1664598279000,
-      "score": 4.3,
-      "content": "主揪和其他潛友人都很好、都很活潑~ 讓比較慢熟的我們玩得很開心！還剛好遇到能見度超好的潮境非常幸運。"
-    }
-  ],
+  "comments": [],
   "messages": [
     {
-      "id": 1,
-      "userId": 5,
-      "activityId": 4,
-      "content": "供餐部分有提供素食嗎？",
-      "updateDate": 1677682908000
-    },
-    {
-      "id": 2,
+      "content": "想請問保險是哪一間的？",
+      "updateDate": 1678517523759,
       "userId": 1,
-      "activityId": 4,
-      "content": "請問如果要加潛，費用怎麼算？",
-      "updateDate": 1677829668000
+      "activityId": "16",
+      "id": 1
     },
     {
-      "content": "請問保險是哪一間??",
-      "updateDate": 1677935131335,
+      "content": "請問如果要加潛，費用怎麼算？",
+      "updateDate": 1678525032355,
+      "userId": 1,
+      "activityId": "12",
+      "id": 2
+    },
+    {
+      "content": "供餐部分有提供素食嗎？",
+      "updateDate": 1678524552416,
       "userId": 4,
-      "activityId": "8",
+      "activityId": "14",
       "id": 3
     },
     {
-      "content": "哈囉~~好久不見，吃早餐了嗎?",
-      "updateDate": 1677986804733,
+      "content": "這次剛好有事，下一次何時再開團？",
+      "updateDate": 1678524598693,
       "userId": 4,
-      "activityId": "8",
+      "activityId": "11",
       "id": 4
     },
     {
-      "content": "這次剛好有事，下一次何時再開團?",
-      "updateDate": 1677985990018,
-      "userId": 4,
-      "activityId": "8",
+      "content": "哈囉~~好久不見，吃早餐了嗎？",
+      "updateDate": 1678524674850,
+      "userId": 6,
+      "activityId": "5",
       "id": 5
     }
   ],
   "messageReplys": [
     {
-      "id": 1,
-      "userId": 4,
-      "messageId": 2,
-      "content": "一支優惠價 $800 元",
-      "updateDate": 1677858301000
-    },
-    {
-      "id": 2,
-      "userId": 1,
-      "messageId": 2,
-      "content": "好的，謝謝您！那我要加潛 2 支。",
-      "updateDate": 1677880882000
-    },
-    {
-      "id": 3,
-      "userId": 4,
-      "messageId": 2,
-      "content": "到現場直接和潛店告知，就可以囉~~",
-      "updateDate": 1677899227000
-    },
-    {
       "content": "富邦的",
-      "updateDate": 1677985199706,
-      "userId": 3,
-      "messageId": "3",
+      "updateDate": 1678524853774,
+      "userId": 6,
+      "messageId": "1",
+      "id": 1
+    },
+    {
+      "content": "還沒唷，這次要一起潛水嗎？",
+      "updateDate": 1678524945167,
+      "userId": 1,
+      "messageId": "5",
+      "id": 2
+    },
+    {
+      "content": "一支優惠價 $800 元",
+      "updateDate": 1678524995979,
+      "userId": 5,
+      "messageId": "2",
+      "id": 3
+    },
+    {
+      "content": "好的，謝謝您！那我要加潛 2 支。",
+      "updateDate": 1678525019675,
+      "userId": 1,
+      "messageId": "2",
+      "id": 4
+    },
+    {
+      "content": "到現場直接和潛店告知，就可以囉~~",
+      "updateDate": 1678525058923,
+      "userId": 5,
+      "messageId": "2",
+      "id": 5
+    },
+    {
+      "content": "那時候我剛好在蘭嶼捏~~",
+      "updateDate": 1678525158032,
+      "userId": 6,
+      "messageId": "5",
       "id": 6
-    },
-    {
-      "content": "還沒唷",
-      "updateDate": 1677985212196,
-      "userId": 3,
-      "messageId": "4",
-      "id": 7
-    },
-    {
-      "content": "可以準備吃中餐了",
-      "updateDate": 1677986789753,
-      "userId": 4,
-      "messageId": "4",
-      "id": 8
     }
   ]
 }
