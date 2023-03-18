@@ -1072,6 +1072,7 @@
       "tags": [
         "岸潛",
         "船潛",
+        "夜潛",
         "假日團"
       ],
       "updateDate": 1678600290876,
@@ -1162,17 +1163,17 @@
       "content": "第一天：\n自行抵達馬列機場，有華語人員接機，快艇直達飯店。\n\n第二天：\n船潛 x 4 (早上、下午各兩濳）\n包含早、午、晚餐\n\n第三天：\n船潛 x 4 (早上、下午各兩濳）\n包含早、午餐，晚餐自理。\n\n第四天：\n船潛 x 2 (早上兩濳）\n午餐：無人島沙洲野餐\n下午：護士鯊🦈共游、尋找海豚🐬\n晚餐自理\nParty Boat 慶功宴\n包含早、午餐，晚餐自理。\n\n第五天：\n渡假島一日遊，享受五星設施、午餐和酒水暢飲\n晚上：沙灘BBQ \n快艇直送機場\n\n價格包含所有行程、馬爾地夫境內交通費、稅金、保險，部分餐費，無隱藏費用。\n以上價格不包含機票及部分晚餐。",
       "startDate": "2023-04-01",
       "endDate": "2023-04-05",
-      "orderExpiryDate": "2023-03-18",
+      "orderExpiryDate": "2023-03-19",
       "maxOrderTotal": 4,
       "cost": 43820,
       "certificateLevelId": 2,
-      "cylinderTotalId": 3,
+      "cylinderTotalId": 6,
       "isNitrox": 0,
       "tags": [
         "船潛",
         "海外"
       ],
-      "updateDate": 1678603171470,
+      "updateDate": 1679122734943,
       "isDelete": 0,
       "userId": "5",
       "id": 31
@@ -1560,6 +1561,20 @@
       "userId": 5,
       "activityId": "1",
       "id": 11
+    },
+    {
+      "content": "這團難度偏高，我還差 50 支氣瓶~~難過",
+      "updateDate": 1679122846964,
+      "userId": 1,
+      "activityId": "31",
+      "id": 12
+    },
+    {
+      "content": "船潛氣瓶可換高氧嗎?",
+      "updateDate": 1679123029807,
+      "userId": 5,
+      "activityId": "28",
+      "id": 13
     }
   ],
   "messageReplys": [
